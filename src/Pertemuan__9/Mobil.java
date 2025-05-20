@@ -1,0 +1,15 @@
+package Pertemuan__9;
+
+public class Mobil extends Kendaraan {
+    private int jumlahPintu;
+
+    public Mobil(String merk, int tahun, int jumlahPintu) {
+        super(merk, tahun);
+        this.jumlahPintu = jumlahPintu;
+    }
+
+    public int getJumlahPintu() {
+        return jumlahPintu;
+    }
+}
+
