@@ -10,4 +10,3 @@ public class DatabaseConnection {
         System.out.println("Static block executed: Connection string initialized.");
     }
 }
-

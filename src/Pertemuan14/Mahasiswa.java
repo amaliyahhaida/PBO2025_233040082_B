@@ -48,4 +48,3 @@ public class Mahasiswa {
         return nama;
     }
 }
-

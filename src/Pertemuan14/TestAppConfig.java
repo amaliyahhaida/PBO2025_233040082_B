@@ -8,4 +8,3 @@ public class TestAppConfig {
         System.out.println("Default Timeout: " + AppConfig.DEFAULT_TIMEOUT + " ms");
     }
 }
-

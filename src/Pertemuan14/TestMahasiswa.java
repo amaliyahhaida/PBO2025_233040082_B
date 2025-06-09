@@ -17,4 +17,3 @@ public class TestMahasiswa {
         System.out.println("Total Mahasiswa Terdaftar: " + Mahasiswa.getTotalMahasiswa());
     }
 }
-

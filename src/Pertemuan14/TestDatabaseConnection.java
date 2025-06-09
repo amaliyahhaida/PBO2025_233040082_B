@@ -7,4 +7,3 @@ public class TestDatabaseConnection {
         System.out.println("Database Connection String: " + DatabaseConnection.connectionString);
     }
 }
-
